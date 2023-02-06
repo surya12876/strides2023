@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing :0;
+}
+
+
+body {
+   
+    text-align: center; 
+    
+    /* padding-top: 25%;
+    padding-bottom: 25%;
+    background-attachment: fixed; */
+  }
+  .menu{
+   
+    /* box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
+        margin: 3rem;
+        margin-right: 3rem;
+        font-size: 25px;
+        
+        padding: 5em;
+        
+        /* padding-top: 10%;
+        padding-left: 10%; */
+        /* padding-bottom: 100%;  */
+         /* text-align: center; */
+         font-size: 2em;
+      } 
+
+.d2{
+    /* background:linear-gradient(50deg, rgb(67, 67, 113), rgb(137, 220, 137)); */
+    background:linear-gradient(50deg, rgb(63, 63, 140), rgb(29, 33, 29));
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+        
+    color: aliceblue;
+        font-size: 25px;
+
+        padding: 1.5em;
+        display: flex-coloumn;
+        /* float: right; */
+        /* padding-top: 10%;
+        padding-left: 10%; */
+        /* padding-bottom: 100%;  */
+        text-align: center;
+}
+.contact{
+    font-size: 5rem;
+}
+.visit{
+    margin: 1em;
+    font-size: 2em;
+}
+.email{
+    margin: 1em;
+    font-size: 2em;
+}
+.num{
+    margin: 1em;
+    
+font-size: 3em;
+    
+}
+nav{
+    background:linear-gradient(50deg, rgb(63, 63, 140), rgb(29, 33, 29));
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    font-size: 4rem;
+    color: aliceblue;
+
+}
+.h{
+    background:linear-gradient(50deg, rgb(98, 98, 195), rgb(57, 59, 56));
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+img  img{
+      position: sticky;
+}
